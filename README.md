@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tereza Malenická (@tereza-tech)
-- 
+
 - 👀 I’m interested in Angular and JS/TS languages-based technologies
 - 🌱 I’m currently learning more about: 🎺 orchestration and 🌧 cloud platforms
 
